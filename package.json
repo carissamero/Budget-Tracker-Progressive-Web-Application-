@@ -1,0 +1,26 @@
+{
+  "name": "budget-tracker-progressive-web-application-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carissamero/Budget-Tracker-Progressive-Web-Application-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carissamero/Budget-Tracker-Progressive-Web-Application-/issues"
+  },
+  "homepage": "https://github.com/carissamero/Budget-Tracker-Progressive-Web-Application-#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.18.1",
+    "mongoose": "^6.4.5",
+    "morgan": "^1.10.0",
+    "npm": "^8.14.0"
+  }
+}
