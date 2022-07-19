@@ -39,19 +39,19 @@ This homework assignment for the University of Texas Austin Coding Boot Camp was
 
 ### Home page
 
-![Screenshot of budget tracker.](./readme-images/budget-tracker-screenshot-01.png)
+![Screenshot of budget tracker.](./readme-images/Screen%20Shot%202022-07-18%20at%208.35.21%20PM.png)
 
 ### Home page with an example of an item in the BudgetStore (seen in development tools).
 
-![Screenshot of budget tracker with item in BudgetStore.]()
+![Screenshot of budget tracker with item in BudgetStore.](./readme-images/Screen%20Shot%202022-07-18%20at%208.32.51%20PM.png)
 
 ### Main page with display of the static cache (seen in development tools).
 
-![Screenshot of budget tracker with display of static cache.]()
+![Screenshot of budget tracker with display of static cache.](Not sure why my cache isnt populating)
 
 ### Main page with display of the data cache (seen in development tools).
 
-![Screenshot of budget tracker with display of data cache.]()
+![Screenshot of budget tracker with display of data cache.](Not sure why my cache isnt populating)
 
 ## License
 
