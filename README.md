@@ -33,7 +33,7 @@ This homework assignment for the University of Texas Austin Coding Boot Camp was
 ## Links
 
 - [GitHub repository](https://github.com/carissamero/Budget-Tracker-Progressive-Web-Application-.git)
-- [Deployed application on Heroku](https://fierce-cove-33344.herokuapp.com/)
+- [Deployed application on Heroku](https://ancient-plateau-76674.herokuapp.com/)
 
 ## Screenshots
 
