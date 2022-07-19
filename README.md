@@ -43,15 +43,15 @@ This homework assignment for the University of Texas Austin Coding Boot Camp was
 
 ### Home page with an example of an item in the BudgetStore (seen in development tools).
 
-![Screenshot of budget tracker with item in BudgetStore.](./readme-images/budget-tracker-screenshot-02.png)
+![Screenshot of budget tracker with item in BudgetStore.]()
 
 ### Main page with display of the static cache (seen in development tools).
 
-![Screenshot of budget tracker with display of static cache.](./readme-images/budget-tracker-screenshot-03.png)
+![Screenshot of budget tracker with display of static cache.]()
 
 ### Main page with display of the data cache (seen in development tools).
 
-![Screenshot of budget tracker with display of data cache.](./readme-images/budget-tracker-screenshot-04.png)
+![Screenshot of budget tracker with display of data cache.]()
 
 ## License
 
